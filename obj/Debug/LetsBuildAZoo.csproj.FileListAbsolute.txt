@@ -1,0 +1,4 @@
+C:\Users\bnkho\source\repos\lbaz\LetsBuildAZoo\obj\Debug\LetsBuildAZoo.csproj.AssemblyReference.cache
+C:\Users\bnkho\source\repos\lbaz\LetsBuildAZoo\obj\Debug\TinyZoo.Resource1.resources
+C:\Users\bnkho\source\repos\lbaz\LetsBuildAZoo\obj\Debug\LetsBuildAZoo.csproj.GenerateResource.cache
+C:\Users\bnkho\source\repos\lbaz\LetsBuildAZoo\obj\Debug\LetsBuildAZoo.csproj.CoreCompileInputs.cache
